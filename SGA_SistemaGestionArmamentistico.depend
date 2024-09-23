@@ -1,0 +1,3707 @@
+# depslib dependency file v1.0
+1714082459 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\admin.cpp
+
+1714082363 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\avion.cpp
+
+1714082384 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\buque.cpp
+
+1714082426 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\entidad.cpp
+
+1714082406 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\fecha.cpp
+
+1714082323 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\misil.cpp
+
+1714082442 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\pais.cpp
+
+1714082281 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\producto.cpp
+
+1714082341 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\tanque.cpp
+
+1714091676 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"Menu.h"
+
+1714081155 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1714091563 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\menu.h
+
+1714091439 source:c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1714091696 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\fecha.h
+
+1714091714 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\entidad.h
+
+1714092139 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+
+1714092226 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\pais.h
+	"Producto.h"
+
+1714091748 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\producto.h
+
+1714092261 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1714092337 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\misil.h
+
+1714092359 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\buque.h
+
+1714092386 c:\users\diego\onedrive\desktop\mundo programacion\labo ii\sga_sistemagestionarmamentistico\avion.h
+
+1714342965 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\admin.cpp
+
+1714082364 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\avion.cpp
+
+1714082386 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\buque.cpp
+
+1714082428 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\entidad.cpp
+
+1714082408 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\fecha.cpp
+
+1714091440 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1714512863 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\menu.h
+
+1714091698 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\fecha.h
+
+1714091716 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\entidad.h
+
+1714092140 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+
+1714092228 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\pais.h
+	"Producto.h"
+
+1714091750 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\producto.h
+
+1714092262 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1714092338 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\misil.h
+
+1714092360 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\buque.h
+
+1714092388 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\avion.h
+
+1714517123 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"Menu.h"
+
+1714081156 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1714082324 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\misil.cpp
+
+1714082444 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\pais.cpp
+
+1714082282 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\producto.cpp
+
+1714082342 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\tanque.cpp
+
+1714528300 source:c:\users\ftula\downloads\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1714526584 c:\users\ftula\downloads\sga_sistemagestionarmamentistico\include\stock.h
+
+1717759777 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1717727086 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1717759209 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1717726341 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1717726341 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1720835307 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1717758810 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\menu.h
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1717759715 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1717760653 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\pais.h
+	"Entidad.h"
+
+1717759195 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\misil.h
+	"Producto.h"
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1717727086 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1717760838 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+	"ClaseArchivos/ArchivoPais.h"
+	"ClaseArchivos/ArchivoAvion.h"
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717726341 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1717760681 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1717759287 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1717759231 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1717726342 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1717726341 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\include\stock.h
+
+1717760653 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1716399689 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1716399689 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1716399689 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1716481316 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1716481316 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1716399689 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1716480237 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1716399689 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1716399689 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\menu.h
+
+1716482387 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1716399689 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\pais.h
+	"Producto.h"
+
+1716737371 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1716411038 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1716399689 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\misil.h
+
+1716413693 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1716414157 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1716405885 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+
+1716399689 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1716399690 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1716399689 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\misil.cpp
+
+1716399689 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\pais.cpp
+
+1716737371 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1716399690 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1716399690 c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\include\stock.h
+
+1716481316 source:c:\users\crdzs\onedrive\escritorio\utn\laboratorio 2\sga\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\menu.h
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\pais.h
+	"Producto.h"
+
+1716766893 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\misil.h
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+
+1716766892 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1716766893 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\misil.cpp
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\pais.cpp
+
+1716766892 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1716766894 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1716766893 c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\include\stock.h
+
+1716766893 source:c:\users\diego\downloads\sga\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\menu.h
+
+1716768643 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\pais.h
+	"Entidad.h"
+
+1716766893 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\misil.h
+
+1716769740 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+	"ClaseArchivos/ArchivoPais.h"
+
+1716766892 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1716768044 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\misil.cpp
+
+1716766892 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1716766894 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1716766893 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\include\stock.h
+
+1716766893 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1716768044 source:c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1716768687 c:\users\diego\onedrive\desktop\sga\sga\sga_sistemagestionarmamentistico\clasearchivos\archivopais.h
+	<iostream>
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1717016255 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\menu.h
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\pais.h
+	"Entidad.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1717016162 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\misil.h
+	"Producto.h"
+
+1717016255 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+	"ClaseArchivos/ArchivoPais.h"
+	"Misil.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\clasearchivos\archivopais.h
+	<iostream>
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1717016075 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1717016074 c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\include\stock.h
+
+1717016074 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1717016162 source:c:\users\windows\desktop\ultima version\sga\sga\sga_sistemagestionarmamentistico\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1717760653 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clasearchivos\archivopais.h
+	<iostream>
+
+1717758997 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoavion.h
+	<iostream>
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Fecha.h"
+	"Entidad.h"
+	"Admin.h"
+	"Pais.h"
+	"Producto.h"
+	"Tanque.h"
+	"Misil.h"
+	"Buque.h"
+	"Avion.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\menu.h
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\pais.h
+	"Entidad.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1718833605 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\misil.h
+	"Producto.h"
+
+1718836911 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+	"ClaseArchivos/ArchivoPais.h"
+	"ClaseArchivos/ArchivoAvion.h"
+	"ArchivoMisil.h"
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1718746935 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\clasearchivos\archivopais.h
+	<iostream>
+
+1718746934 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoavion.h
+	<iostream>
+
+1718835180 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1718746935 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\src\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1718746935 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\include\stock.h
+
+1718746934 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1719265789 source:c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\src\archivomisil.cpp
+	"ArchivoMisil.h"
+
+1719265789 c:\users\windows\desktop\sga\sga_sistemagestionarmamentistico\include\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1719627611 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\admin.cpp
+	"Admin.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1719627611 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\admin.h
+	"Entidad.h"
+	<cstring>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\entidad.h
+	<cstdio>
+
+1719627611 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1719627611 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\avion.h
+	"Producto.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\producto.h
+	"Fecha.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\fecha.h
+	<iostream>
+
+1719627611 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1719627611 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\buque.h
+	"Producto.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1719687150 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\menu.h
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\pais.h
+	"Entidad.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\tanque.h
+	"Producto.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\misil.h
+	"Producto.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"ClaseArchivos/ArchivoAdmin.h"
+	"ClaseArchivos/ArchivoPais.h"
+	"ClaseArchivos/ArchivoAvion.h"
+	"ArchivoMisil.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoadmin.h
+	<iostream>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clasearchivos\archivopais.h
+	<iostream>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clasearchivos\archivoavion.h
+	<iostream>
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1719627611 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1719627611 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+
+1719627611 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1719627611 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1719687483 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1719687533 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1719627611 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1719687574 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\menu.h
+
+1719627612 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.cpp
+	"ArchivoMisil.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1719687707 source:c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+
+1719627612 c:\users\diego\downloads\sga_24_6\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+
+1720835309 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1720835309 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1720835310 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1720836672 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1720835309 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1720835311 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1720835310 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+
+1720836585 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1720835309 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1720052671 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.cpp
+	"ArchivoMisil.h"
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1720835310 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1720835310 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1720835310 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1720835310 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720835311 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720835310 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720835311 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1720835312 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1720835714 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1720835311 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1720835984 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1720835311 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1720835311 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1720835714 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1720835312 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1720835307 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1720368167 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1720583897 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+
+1720122800 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1720559808 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720483282 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"DetalleVenta.h"
+	<vector>
+
+1720223914 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1720295523 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1720391219 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1720391302 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1720560351 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1720225987 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1720121179 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1720053840 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1720560485 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1720126268 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1720126268 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1720560158 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\src\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1720584233 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\include\detalleventa.h
+
+1720584632 c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1720560870 source:c:\users\crdzs\onedrive\escritorio\sga\sga\sga_sistemagestionarmamentistico\src\archivodetalleventa.cpp
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1720368167 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1720583897 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1720720379 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+
+1720122800 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1720820570 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1720818554 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1720821997 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720832758 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720223914 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1720799186 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1720295523 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1720722631 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1720799014 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1720722819 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1720722631 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1720560351 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1720225987 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1720121179 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1720053840 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1720053840 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1720560485 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1720053839 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1720053839 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1720584632 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\include\detalleventa.h
+
+1720707719 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\src\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1720818704 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1720820542 source:c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1720731376 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1720819807 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1720807529 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1720807719 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1720807719 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1720807719 c:\users\crdzs\onedrive\escritorio\sga!\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1720835309 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1720835309 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1720835312 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1720835312 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1720835311 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1720835311 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1720835312 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1720835313 c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1720835312 source:c:\users\diego\onedrive\desktop\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1720888879 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720878426 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1720877104 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1720877104 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1720877104 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1720877104 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1720877104 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1720878000 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1720877104 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1720888970 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1720888970 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1720888970 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1720888970 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1720878928 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1720887905 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1720889602 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1720877103 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1720877103 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1720889602 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1720877104 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1720877102 source:c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1720877102 c:\users\crdzs\onedrive\escritorio\sga-ale\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1721088365 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1721088365 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1721088365 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1721088365 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1721136662 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+	<ctime>
+
+1721088365 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1721088365 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1720911073 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1721088366 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1721088365 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1721088365 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<iomanip>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1721138351 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRClientes.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1721088367 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1721268006 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1721254161 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1721254161 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1721254161 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+	<ctime>
+
+1721254161 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1721254161 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1721136632 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1721267773 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRClientes.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721267224 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1721264121 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1721267832 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1721264565 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1721267946 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1721254163 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1721254163 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1721254159 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1721254159 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<iomanip>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1721088366 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strclientes.h
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1721005855 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1721008804 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1721008795 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1720996631 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1720996632 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1720997251 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1721008397 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<iomanip>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1720997251 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1721008438 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRClientes.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1720996632 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1721005974 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1720996631 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strclientes.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strclientes.h
+
+1721189119 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+	<ctime>
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1721191769 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRClientes.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"STRstockMisil.h"
+	"STRstockAvion.h"
+	"STRstockBuque.h"
+	"STRstockTanque.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1721189121 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\strclientes.h
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1721189120 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1721189120 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\stock.h
+
+1721189121 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1721189121 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1721189118 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1721189118 c:\users\diego\onedrive\desktop\sga-ultimo\sga\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<iomanip>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1721268006 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1721254161 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1721254161 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1721254161 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+	<ctime>
+
+1721254161 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1721254161 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1721331278 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRClientes.h"
+	"StockProducto.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721330666 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"StockProducto.h"
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1721329307 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\strstockmisil.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\strstockavion.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\strstockbuque.h
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\strstocktanque.h
+
+1721254162 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1721264121 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1721267832 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1721264565 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1721331484 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1721254164 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1721331081 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\strclientes.h
+
+1721330012 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1721267946 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1721330012 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1721254162 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1721254163 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\stock.h
+
+1721254163 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1721254163 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1721254159 source:c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1721254159 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<iomanip>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+
+1721329307 c:\users\crdzs\onedrive\escritorio\sga-ultimo\sga_sistemagestionarmamentistico\clases\stockproducto.h
+
+1721336716 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\admin.cpp
+	"Admin.h"
+	<iostream>
+
+1721336716 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\admin.h
+	"Entidad.h"
+	<cstring>
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\entidad.h
+	<cstdio>
+
+1721336716 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\avion.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Avion.h"
+	"Producto.h"
+
+1721336716 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\avion.h
+	"Producto.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\producto.h
+	"Fecha.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\fecha.h
+	<iostream>
+	<ctime>
+
+1721336716 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\buque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Buque.h"
+	"Producto.h"
+
+1721336716 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\buque.h
+	"Producto.h"
+
+1721336716 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"DetalleVenta.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\detalleventa.h
+
+1721336717 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\entidad.cpp
+	"Entidad.h"
+	<cstring>
+
+1721336717 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\menu.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	"rlutil.h"
+	"Menu.h"
+	"Admin.h"
+	"Pais.h"
+	"Misil.h"
+	"Avion.h"
+	"Buque.h"
+	"Tanque.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"ClasesArchivos/ArchivoAdmin.h"
+	"ClasesArchivos/ArchivoPais.h"
+	"ClasesArchivos/ArchivoAvion.h"
+	"ClasesArchivos/ArchivoMisil.h"
+	"ClasesArchivos/ArchivoBuque.h"
+	"ClasesArchivos/ArchivoTanque.h"
+	"ClasesArchivos/ArchivoVenta.h"
+	"ClasesArchivos/ArchivoDetalleVenta.h"
+	"STRClientes.h"
+	"StockProducto.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721348350 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\menu.h
+	"Pais.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"StockProducto.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\pais.h
+	"Entidad.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\venta.h
+	"Fecha.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\stockproducto.h
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\misil.h
+	"Producto.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\tanque.h
+	"Producto.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoadmin.h
+	<iostream>
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivopais.h
+	<iostream>
+	<string.h>
+	"../Pais.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoavion.h
+	<iostream>
+	<string.h>
+	"../Avion.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivomisil.h
+	<iostream>
+	<string.h>
+	"../Misil.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivobuque.h
+	<iostream>
+	<string.h>
+	"../Buque.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivotanque.h
+	<iostream>
+	<string.h>
+	"../Tanque.h"
+
+1721336719 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivoventa.h
+	<iostream>
+	<string.h>
+	"../Venta.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\clasesarchivos\archivodetalleventa.h
+	<iostream>
+	<string.h>
+	"../DetalleVenta.h"
+
+1721336718 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\strclientes.h
+
+1721336717 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\misil.cpp
+	<iostream>
+	<cstring>
+	"Misil.h"
+	<conio.h>
+
+1721336717 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\pais.cpp
+	"Pais.h"
+	<string>
+	<cstring>
+	<iostream>
+
+1721336717 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\producto.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Producto.h"
+
+1721336717 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\stock.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	"Stock.h"
+
+1721336717 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\stock.h
+
+1721336718 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\tanque.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Tanque.h"
+	"Producto.h"
+
+1721336718 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\clases\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"Venta.h"
+
+1721336715 source:c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\main.cpp
+	"Cabeceras.h"
+
+1721336715 c:\users\diego\onedrive\desktop\sga-ultimo\sga-ultimo\sga_sistemagestionarmamentistico\cabeceras.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<cstring>
+	<iomanip>
+	"Clases\Menu.h"
+	"Clases\Fecha.h"
+	"Clases\Entidad.h"
+	"Clases\Admin.h"
+	"Clases\Pais.h"
+	"Clases\Producto.h"
+	"Clases\Tanque.h"
+	"Clases\Misil.h"
+	"Clases\Buque.h"
+	"Clases\Avion.h"
+

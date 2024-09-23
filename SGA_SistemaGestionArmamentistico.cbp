@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SGA_SistemaGestionArmamentistico" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SGA_SistemaGestionArmamentistico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="Clases" />
+					<Add directory="Clases/ClasesArchivos" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SGA_SistemaGestionArmamentistico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="Clases" />
+					<Add directory="Clases/ClasesArchivos" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Cabeceras.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Clases/Admin.cpp" />
+		<Unit filename="Clases/Admin.h" />
+		<Unit filename="Clases/Avion.cpp" />
+		<Unit filename="Clases/Avion.h" />
+		<Unit filename="Clases/Buque.cpp" />
+		<Unit filename="Clases/Buque.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoAdmin.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoAvion.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoBuque.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoDetalleVenta.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoMisil.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoPais.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoTanque.h" />
+		<Unit filename="Clases/ClasesArchivos/ArchivoVenta.h" />
+		<Unit filename="Clases/DetalleVenta.cpp" />
+		<Unit filename="Clases/DetalleVenta.h" />
+		<Unit filename="Clases/Entidad.cpp" />
+		<Unit filename="Clases/Entidad.h" />
+		<Unit filename="Clases/Fecha.h" />
+		<Unit filename="Clases/Menu.cpp" />
+		<Unit filename="Clases/Menu.h" />
+		<Unit filename="Clases/Misil.cpp" />
+		<Unit filename="Clases/Misil.h" />
+		<Unit filename="Clases/Pais.cpp" />
+		<Unit filename="Clases/Pais.h" />
+		<Unit filename="Clases/Producto.cpp" />
+		<Unit filename="Clases/Producto.h" />
+		<Unit filename="Clases/STRClientes.h" />
+		<Unit filename="Clases/Stock.cpp" />
+		<Unit filename="Clases/Stock.h" />
+		<Unit filename="Clases/StockProducto.h" />
+		<Unit filename="Clases/Tanque.cpp" />
+		<Unit filename="Clases/Tanque.h" />
+		<Unit filename="Clases/Venta.cpp" />
+		<Unit filename="Clases/Venta.h" />
+		<Unit filename="Clases/rlutil.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
